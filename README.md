@@ -14,7 +14,6 @@ By linking Rstudio to Github, you can easily upload material onto the Github rep
 You should now be able access any of the files on the Github repository through your Rstudio. You can also upload anything you create on Rstudio directly onto Github. (This README file was created through Rstudio!)
 
 
-TEST2: This is a line lexis wrote on RStudio
-TEST 3: Lexis Adding more info
+May 21 Lexis editing from R
 
 
